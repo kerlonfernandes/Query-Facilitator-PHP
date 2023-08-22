@@ -1,6 +1,6 @@
 <?php
 
-namespace sys4soft;
+namespace MidSpace;
 
 use PDO;
 use PDOException;
